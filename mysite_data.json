@@ -221,6 +221,253 @@
   }
 },
 {
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2023-09-04T13:57:57.717Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "New Title",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2023-09-04T13:57:57.732Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Who is Django Reinhardt",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2023-09-04T13:57:57.733Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Who is Miles Davis",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2023-09-04T14:02:35.194Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Aaron Novik – “The Fallow Curves of the Planospheres”",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2023-09-04T14:03:33.482Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Haftor Medboe – “Will of the People”",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2023-09-04T14:04:51.790Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Jaimie Branch – “Fly or Die II: Bird Dogs of Paradise”",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2023-09-04T14:05:16.411Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Rebecca Trescher – “Where We Go”",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2023-09-04T14:07:37.239Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Erlend Apneseth Trio with Frode Haltli – “Salika, Molika”",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2023-09-04T14:08:02.067Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Camila Meza & the Nectar Orchestra – “Ámbar”",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2023-09-04T14:09:48.160Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Pagination test",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2023-09-04T14:10:40.020Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Markdown",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2023-09-04T14:11:26.414Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Rebecca Trescher – “Where We Go”",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2023-09-04T14:11:45.835Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Aaron Novik – “The Fallow Curves of the Planospheres”",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2023-09-04T14:12:02.898Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Haftor Medboe – “Will of the People”",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2023-09-04T14:12:25.424Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Jaimie Branch – “Fly or Die II: Bird Dogs of Paradise”",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2023-09-04T14:12:48.541Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Erlend Apneseth Trio with Frode Haltli – “Salika, Molika”",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2023-09-04T14:13:08.037Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Camila Meza & the Nectar Orchestra – “Ámbar”",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2023-09-04T14:14:36.143Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Haftor Medboe – “Will of the People”",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\", \"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2023-09-04T14:14:42.952Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Haftor Medboe – “Will of the People”",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
   "model": "auth.permission",
   "pk": 1,
   "fields": {
@@ -657,7 +904,7 @@
   "pk": 1,
   "fields": {
     "password": "pbkdf2_sha256$600000$bOejoAzb3P0PZbMbEO0pIU$IykwNBKQnT47cpvpV4NGvb5yXaQFBd3eQVaBzo6/HSM=",
-    "last_login": "2023-08-10T22:00:40.480Z",
+    "last_login": "2023-09-03T16:58:43.513Z",
     "is_superuser": true,
     "username": "admin",
     "first_name": "",
@@ -793,59 +1040,11 @@
   }
 },
 {
-  "model": "blog.post",
-  "pk": 1,
+  "model": "sessions.session",
+  "pk": "m0s2rawgkuowc5lfgypa28x7nqem5l8w",
   "fields": {
-    "title": "Who is Django Reinhardt",
-    "slug": "who-is-django-reinhardt",
-    "author": 1,
-    "body": "Lorem ipsum",
-    "publish": "2023-08-10T22:01:13Z",
-    "created": "2023-08-10T22:01:16.862Z",
-    "updated": "2023-08-12T16:45:41.837Z",
-    "status": "PB"
-  }
-},
-{
-  "model": "blog.post",
-  "pk": 2,
-  "fields": {
-    "title": "Who is Miles Davis",
-    "slug": "who-is-miles-davis",
-    "author": 1,
-    "body": "Miles Dewey Davis III (May 26, 1926 – September 28, 1991) was an American jazz musician, trumpeter, bandleader, and composer. He is among the most influential and acclaimed figures in the history of jazz and 20th-century music. Davis adopted a variety of musical directions in a five-decade career that kept him at the forefront of many major stylistic developments in jazz.",
-    "publish": "2023-08-10T22:01:35Z",
-    "created": "2023-08-10T22:01:39.636Z",
-    "updated": "2023-08-17T15:24:20.804Z",
-    "status": "PB"
-  }
-},
-{
-  "model": "blog.post",
-  "pk": 3,
-  "fields": {
-    "title": "New Title",
-    "slug": "new-title",
-    "author": 1,
-    "body": "New text",
-    "publish": "2023-08-09T22:24:55Z",
-    "created": "2023-08-10T22:25:05.405Z",
-    "updated": "2023-08-10T22:26:22.300Z",
-    "status": "PB"
-  }
-},
-{
-  "model": "blog.post",
-  "pk": 4,
-  "fields": {
-    "title": "Pagination test",
-    "slug": "pagination-test",
-    "author": 1,
-    "body": "Pagination text test",
-    "publish": "2023-08-12T16:45:53Z",
-    "created": "2023-08-12T16:46:19.708Z",
-    "updated": "2023-08-17T15:24:25.298Z",
-    "status": "PB"
+    "session_data": ".eJxVjDEOwjAMRe-SGUVJqXHMyM4ZKsd2aAG1UtNOiLtDpQ6w_vfef7mO16Xv1mpzN6g7u-gOv1tmedi4Ab3zeJu8TOMyD9lvit9p9ddJ7XnZ3b-Dnmv_rYEYTjEpQgEzZSupCRgbtIhMSAGPIi1BNk0hsQgBCRZSsWAptO79AeUYOCg:1qcqQt:ZOM6zEUn666XmIUocQBFN6UA7tdzVA3HFTW5dFGuw1w",
+    "expire_date": "2023-09-17T16:58:43.516Z"
   }
 },
 {
@@ -855,75 +1054,120 @@
     "title": "Markdown",
     "slug": "markdown",
     "author": 1,
-    "body": "*Ten zapis oznacza wyróżnienie*, natomiast **ten pogrubienie**.\r\n\r\nPoniżej mamy listę:\r\n\r\n* Jeden\r\n* Dwa\r\n* Trzy\r\n\r\nTutaj jest [łącze do witryny Django](https://www.djangoproject.com)",
+    "body": "*This notation means highlighting*, and **this is bold**.\r\n\r\nBelow we have a list:\r\n\r\n* One\r\n* Two\r\n* Three\r\n\r\nHere is [link to Django website](https://www.djangoproject.com)",
     "publish": "2023-08-22T18:09:14Z",
     "created": "2023-08-22T18:11:18.136Z",
-    "updated": "2023-08-22T18:11:44.506Z",
+    "updated": "2023-09-04T14:10:40.016Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Aaron Novik – “The Fallow Curves of the Planospheres”",
+    "slug": "aaron-novik-the-fallow-curves-of-the-planospheres",
+    "author": 1,
+    "body": "This is less an album and more a sonic event.  Aaron Novik brought together five different ensembles and countless inspirations to capture the essence of his travels in France, Italy, Rotterdam, Berlin, and New York City.  The sounds range from sparse and introspective to joyful and bountiful to dissonant and transitory, and they are embodied in the five recordings The Hotel of 13 Losses, Rotterdamn, Berlin, O+O+, and No Signal.  The Fallow Curves of the Planospheres is a compilation of those recordings.  Selected music from the five recordings snaps right into place with one another, and Novik has curated the pieces as one might choose just ten photos from hundreds taken while on an extended journey… just enough to represent the spirit and experience of it all.  As a stand-alone recording, The Fallow Curves of the Planospheres is a magnificent work of music.  In that way a work of art can be representative of something much larger, of experiences and concepts far grander, it represents one of the very best projects of 2019.",
+    "publish": "2023-09-04T14:02:04Z",
+    "created": "2023-09-04T14:02:35.168Z",
+    "updated": "2023-09-04T14:11:45.829Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "Haftor Medboe – “Will of the People”",
+    "slug": "haftor-medboe-will-of-the-people",
+    "author": 1,
+    "body": "In 2019, the recorded output of Haftor Medboe was incomparable.  Different ensembles and different sounds and different environments kept listeners on their toes and their expectations in check.  The gentle exhalation of a melody and deep dive into serene waters was just as likely to manifest as a combustible attitude and quick burn of rocket fuel.  We’ll be talking more about the guitarist’s 2019 output in an upcoming Year in Summary column, but in the context of the Best of 2019 list, no album better represents the quality of the work or the expanse of its range than the live performance recording Will of the People.  These four extended, fully improvised pieces are as riveting as anything to hit the shelves in 2019, and about as resounding an introduction as one is likely to get to Medbøe’s work.\r\n\r\nYour album personnel:  Haftor Medboe (electric guitar, effects), Pete Furniss (bass clarinet, electronics), and Tom Bancroft (drums, percussion).",
+    "publish": "2023-09-04T14:02:35Z",
+    "created": "2023-09-04T14:03:33.459Z",
+    "updated": "2023-09-04T14:14:42.949Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 8,
+  "fields": {
+    "title": "Jaimie Branch – “Fly or Die II: Bird Dogs of Paradise”",
+    "slug": "jaimie-branch-fly-or-die-ii-bird-dogs-of-paradise",
+    "author": 1,
+    "body": "It would’ve been so easy to do the same thing.  It wouldn’t even have been a bad thing.  Had Jaimie Branch made the second installment of her Fly or Die series the same as the first, it would’ve been more of the good stuff, and that would’ve been quite all right.  But she didn’t.\r\n\r\nIt would’ve been so easy to do something completely different.  It wouldn’t even have been a bad thing.  Had Jaimie Branch made the second installment of her Fly or Die series the polar opposite of the first, it would’ve been something brand new from an exciting artist, and that would’ve been quite alright.  But she didn’t.\r\n\r\nThe trumpeter situated herself dead center of possibilities, and that was best of all.  Rather than duplicate a winning formula, and, conversely, rather than turn her back on it and make dramatic changes for the sake of change, Branch added depth and nuance to what was familiar, and brought unity to what is old and new.  On Fly or Die II: Bird Dogs of Paradise, the electro-acoustic posture maintains the lean toward each extreme, but influences of chamber, Latin, rock and bouquets of percussion round things out in a way that makes it so it ain’t a duality at all.  The trumpeter’s pure aggression, raw melodicism and punches-in-bunches style haven’t gone anywhere, but they’re given new life with the new approach.  As I stated in my write-up of this album for The Bandcamp Daily, “Branch’s debut made a formidable impact, which makes the achievement of her sophomore release that much more impressive. It can take half a lifetime for an artist to discover their voice, and sometimes even longer before they can bring that voice into focus.”  The timer had barely started ticking before Jaimie Branch hit that mark.\r\n\r\nYour album personnel:  Jaimie Branch (trumpet, voice, synths, sneaker squeaks, bells & whistles), Lester St. Louis (cello, percussion), Jason Ajemian (double bass, percussion, vocals), Chad Taylor (drums, mbira, xylophone), and Guests:  Ben LaMar Gay (voice), Marvin Tate (voice), Matt Schneider (12-string guitar), Dan Bitney (percussion, synthesizer) and Scott McNiece (egg).",
+    "publish": "2023-09-04T14:03:33Z",
+    "created": "2023-09-04T14:04:51.762Z",
+    "updated": "2023-09-04T14:12:25.418Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 9,
+  "fields": {
+    "title": "Rebecca Trescher – “Where We Go”",
+    "slug": "rebecca-trescher-where-we-go",
+    "author": 1,
+    "body": "Not all recordings are finished products.  Some albums intentionally capture the beginning stages of a concept, where the musicians are fleshing out new compositions in the studio.  Some albums capture a transition phase, where recent works are given new perspectives in a live setting, or while on tour.  Other albums reflect other stages of creative development, either encapsulating old ideas in new ways or providing glimpses of a view from the next plateau.  The 2019 release from Rebecca Trescher is a landing spot.  Following thirteen performances over two years during her concert series at Tafelhalle Nuremburg, the clarinetist went into the studio and captured every bit of that creative trajectory into an expansive statement of stunning beauty.  The richness of the music reflects not just that time of regimented experimentation, but also of the diverse collaborators of musicians, instruments, dancers, writers, and filmmakers who contributed to that concert series.  This large ensemble work possesses a huge sound, as if flirting with the epic, but adheres to a chamber music sensibility, where the subtlest nuance can resonate like a thunder storm.  Trescher’s 2012 debut Sud was one of the best things to come out that year; that it was just the starting point makes the success of Where We Go that much more dramatic.\r\n\r\nYour album personnel:  Rebecca Trescher (bass clarinet, clarinet), Sebastian Strempel (trumpet, cornet), Joachim Lenhardt (tenor & soprano saxophones, clarinet, flute), Markus Harm (alto sax, clarinet, flute), Anton Mangold (concert harp, flute, sax), Juri Kannheiser (vocals), Andreas Feith (piano), Tim Collins (vibraphone), Peter Christof (bass) and Silvio Morger (drums).",
+    "publish": "2023-09-04T14:04:51Z",
+    "created": "2023-09-04T14:05:16.388Z",
+    "updated": "2023-09-04T14:11:26.406Z",
+    "status": "DF"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 10,
+  "fields": {
+    "title": "Erlend Apneseth Trio with Frode Haltli – “Salika, Molika”",
+    "slug": "erlend-apneseth-trio-with-frode-haltli-salika-molika",
+    "author": 1,
+    "body": "Earlier this year, I gave a pretty thorough breakdown of what this album is about and why it’s so damn compelling.  The Erlend Apneseth Trio with Frode Haltli created something timeless, music that has deep roots and eyes to the stars and beyond.  But now having spent nearly a year with this recording, and had the time to experience it at first listen, grow increasingly enamored with it, analyze it objectively for a write-up, and then get to where it settled in as one of my go-to albums when I just wanted some music to fill up the space in my house and my life, it’s gotten to where Salika, Molika elicits more abstruse reactions and oblique connections.\r\n\r\nThat past-future timelessness, and how it’s couched within a foundation of folk musics, it reminds me of other brilliant and adored recordings, like Down Deep from the trio of Ernst Reijseger, Harmen Fraanje, and Mola Sylla, and, similarly, Codona 3 by another trio, of Don Cherry, Collin Walcott, and Naná Vasconcelos.  All of these recordings had a way with their melodies, where they could come head on or an indirect route and nail their target, and they each conducted an inspired rhythmic discourse, the kind where its just as likely to compel the foot to tap as trigger the brain to try to interpret what it all means.  They each utilized unconventional instrumentation, and yet made it sound like something common to everyday life, as if crickets bathed in moonlight or the electric hum of the city at daybreak.  These are old soul recordings.  They transcend the bookends of our own personal timelines and make us feel as a part of something more eternal, entering a special place where art becomes immortality, and everyone it touches.\r\n\r\nThe musicians tapped into that source for this session, and it’s magical.\r\n\r\nYour album personnel:  Erlend Apneseth (hardanger fiddle), Stephan Meidell (baritone acoustic guitar, zither, live sampling and electronics), Øyvind Hegg-Lunde (drums, percussion) and Frode Haltli (accordion).",
+    "publish": "2023-09-04T14:05:16Z",
+    "created": "2023-09-04T14:07:37.206Z",
+    "updated": "2023-09-04T14:12:48.535Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 11,
+  "fields": {
+    "title": "Camila Meza & the Nectar Orchestra – “Ámbar”",
+    "slug": "camila-meza-the-nectar-orchestra-ambar",
+    "author": 1,
+    "body": "The surprising thing about Camila Meza and her new recording Ámbar is that this really shouldn’t be that surprising.  And yet, it is.  In fact, it’s stunning.  The vocalist-guitarist made a huge impression with her contributions to Ryan Keberle’s Azul Infinito and Fabian Almazan’s Alcanza, her voice shining like a sun at the center of all things.  And she was a light who illuminated every other musician on the recording as brightly as she herself, and made it inconsequential who belonged to the orbit of the other.  That ability to be at the center of things while equally and inextricably connected to every other element of the music is an enviable balance for a vocalist to strike.  Her own recording, the 2016 Traces on Sunnyside Records, further displayed Meza’s talent for an arresting delivery that makes one snap to attention while also conveying a soothing comfort.\r\n\r\nBut even here, Ámbar seems like a plateau achieved more audacious than anything reasonably anticipated for her next recording.  The strings arrangements of her Nectar Orchestra melt into the firm embrace of both jazz ensemble and Chilean folk, except during those passages where the strings say to hell with staying grounded in rhythmic patterns, let’s go soaring.  This is an album of many great proclamations and big statements, yet never seems far removed from a poignant melody and soft touch.  Inspired renditions of songs by Elliot Smith, Pat Metheny/Lyle Mays, Jobim/Vinicius de Moraes, and Milton Nascimento snap right into place with Meza originals, and come off sounding like they’d all been meant for this project on exactly this very day.  It’s one of the very best recordings of 2019, and, in the context of Meza’s recording career, it wholly decimates all measures of what could and should be expected next from her.\r\n\r\nYour album personnel:  Camila Meza (vocal, acoustic & electric guitars); Eden Ladin (piano, juno, celesta, keyboards), Noam Wiesenberg (bass, arrangements), Keita Ogawa (drums, percussion), Tomoko Omura (violin), Fung Chern Hwei (violin), Benjamin von Gutzeit (viola), and Brian Sanders (cello).",
+    "publish": "2023-09-04T14:07:37Z",
+    "created": "2023-09-04T14:08:02.023Z",
+    "updated": "2023-09-04T14:13:08.028Z",
     "status": "PB"
   }
 },
 {
   "model": "blog.comment",
-  "pk": 1,
+  "pk": 6,
   "fields": {
-    "post": 2,
-    "name": "Ulises",
-    "email": "ulises@gmail.com",
-    "body": "Testowy przykład komentarza",
-    "created": "2023-08-17T12:17:21.961Z",
-    "updated": "2023-08-17T12:17:21.961Z",
+    "post": 7,
+    "name": "John",
+    "email": "john@gmail.com",
+    "body": "Excellent album!",
+    "created": "2023-09-04T14:15:39.905Z",
+    "updated": "2023-09-04T14:15:39.905Z",
     "active": true
   }
 },
 {
   "model": "blog.comment",
-  "pk": 2,
+  "pk": 7,
   "fields": {
-    "post": 2,
-    "name": "Ulises",
-    "email": "ulises@gmail.com",
-    "body": "Drugi komentarz, test",
-    "created": "2023-08-17T12:18:29.776Z",
-    "updated": "2023-08-17T12:19:27.982Z",
-    "active": false
-  }
-},
-{
-  "model": "blog.comment",
-  "pk": 3,
-  "fields": {
-    "post": 1,
-    "name": "Davis",
-    "email": "davis@gmail.com",
-    "body": "Davis interesting facts",
-    "created": "2023-08-17T17:40:23.282Z",
-    "updated": "2023-08-17T17:40:23.282Z",
-    "active": true
-  }
-},
-{
-  "model": "blog.comment",
-  "pk": 4,
-  "fields": {
-    "post": 1,
-    "name": "commentator",
-    "email": "asd@gmail.com",
-    "body": "Commentator test text",
-    "created": "2023-08-22T17:40:41.051Z",
-    "updated": "2023-08-22T17:40:41.051Z",
-    "active": true
-  }
-},
-{
-  "model": "blog.comment",
-  "pk": 5,
-  "fields": {
-    "post": 1,
-    "name": "commentator",
-    "email": "asd@gmail.com",
-    "body": "Commentator test text",
-    "created": "2023-08-22T17:40:46.160Z",
-    "updated": "2023-08-22T17:40:46.160Z",
+    "post": 7,
+    "name": "Megan",
+    "email": "megan@gmail.com",
+    "body": "Great post.",
+    "created": "2023-09-04T14:16:14.272Z",
+    "updated": "2023-09-04T14:16:14.272Z",
     "active": true
   }
 },
@@ -960,48 +1204,179 @@
   }
 },
 {
-  "model": "taggit.taggeditem",
-  "pk": 1,
-  "fields": {
-    "tag": 1,
-    "content_type": 7,
-    "object_id": 1
-  }
-},
-{
-  "model": "taggit.taggeditem",
-  "pk": 4,
-  "fields": {
-    "tag": 4,
-    "content_type": 7,
-    "object_id": 1
-  }
-},
-{
-  "model": "taggit.taggeditem",
-  "pk": 5,
-  "fields": {
-    "tag": 1,
-    "content_type": 7,
-    "object_id": 2
-  }
-},
-{
-  "model": "taggit.taggeditem",
+  "model": "taggit.tag",
   "pk": 6,
   "fields": {
-    "tag": 4,
-    "content_type": 7,
-    "object_id": 2
+    "name": "San Francisco",
+    "slug": "san-francisco"
   }
 },
 {
-  "model": "taggit.taggeditem",
+  "model": "taggit.tag",
   "pk": 7,
   "fields": {
-    "tag": 1,
-    "content_type": 7,
-    "object_id": 4
+    "name": "Aaron Novik",
+    "slug": "aaron-novik"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 8,
+  "fields": {
+    "name": "Self-Produced",
+    "slug": "self-produced"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 9,
+  "fields": {
+    "name": "Best Jazz of 2019",
+    "slug": "best-jazz-of-2019"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 10,
+  "fields": {
+    "name": "Haftor Medbøe",
+    "slug": "haftor-medbøe"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 11,
+  "fields": {
+    "name": "Edinburgh (Scotland)",
+    "slug": "edinburgh-scotland"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 12,
+  "fields": {
+    "name": "Copperfly Records",
+    "slug": "copperfly-records"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 13,
+  "fields": {
+    "name": "International Anthem",
+    "slug": "international-anthem"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 14,
+  "fields": {
+    "name": "New York City",
+    "slug": "new-york-city"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 15,
+  "fields": {
+    "name": "Jaimie Branch",
+    "slug": "jaimie-branch"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 16,
+  "fields": {
+    "name": "Chad Taylor",
+    "slug": "chad-taylor"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 17,
+  "fields": {
+    "name": "Rebecca Trescher",
+    "slug": "rebecca-trescher"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 18,
+  "fields": {
+    "name": "Tim Collins",
+    "slug": "tim-collins"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 19,
+  "fields": {
+    "name": "Nuremberg (Germany)",
+    "slug": "nuremberg-germany"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 20,
+  "fields": {
+    "name": "Enja Records",
+    "slug": "enja-records"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 21,
+  "fields": {
+    "name": "Aal Buskerud (Norway)",
+    "slug": "aal-buskerud-norway"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 22,
+  "fields": {
+    "name": "Frode Haltli",
+    "slug": "frode-haltli"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 23,
+  "fields": {
+    "name": "Erlend Apneseth",
+    "slug": "erlend-apneseth"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 24,
+  "fields": {
+    "name": "Hubro Music",
+    "slug": "hubro-music"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 25,
+  "fields": {
+    "name": "Sony Masterworks",
+    "slug": "sony-masterworks"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 26,
+  "fields": {
+    "name": "Camila Meza",
+    "slug": "camila-meza"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 27,
+  "fields": {
+    "name": "Haftor Medboe",
+    "slug": "haftor-medboe"
   }
 },
 {
@@ -1011,6 +1386,258 @@
     "tag": 5,
     "content_type": 7,
     "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 9,
+  "fields": {
+    "tag": 8,
+    "content_type": 7,
+    "object_id": 6
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 10,
+  "fields": {
+    "tag": 9,
+    "content_type": 7,
+    "object_id": 6
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 11,
+  "fields": {
+    "tag": 6,
+    "content_type": 7,
+    "object_id": 6
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 12,
+  "fields": {
+    "tag": 7,
+    "content_type": 7,
+    "object_id": 6
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 13,
+  "fields": {
+    "tag": 9,
+    "content_type": 7,
+    "object_id": 7
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 15,
+  "fields": {
+    "tag": 11,
+    "content_type": 7,
+    "object_id": 7
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 16,
+  "fields": {
+    "tag": 12,
+    "content_type": 7,
+    "object_id": 7
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 17,
+  "fields": {
+    "tag": 9,
+    "content_type": 7,
+    "object_id": 8
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 18,
+  "fields": {
+    "tag": 13,
+    "content_type": 7,
+    "object_id": 8
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 19,
+  "fields": {
+    "tag": 14,
+    "content_type": 7,
+    "object_id": 8
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 20,
+  "fields": {
+    "tag": 15,
+    "content_type": 7,
+    "object_id": 8
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 21,
+  "fields": {
+    "tag": 16,
+    "content_type": 7,
+    "object_id": 8
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 22,
+  "fields": {
+    "tag": 9,
+    "content_type": 7,
+    "object_id": 9
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 23,
+  "fields": {
+    "tag": 17,
+    "content_type": 7,
+    "object_id": 9
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 24,
+  "fields": {
+    "tag": 18,
+    "content_type": 7,
+    "object_id": 9
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 25,
+  "fields": {
+    "tag": 19,
+    "content_type": 7,
+    "object_id": 9
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 26,
+  "fields": {
+    "tag": 20,
+    "content_type": 7,
+    "object_id": 9
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 27,
+  "fields": {
+    "tag": 9,
+    "content_type": 7,
+    "object_id": 10
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 28,
+  "fields": {
+    "tag": 21,
+    "content_type": 7,
+    "object_id": 10
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 29,
+  "fields": {
+    "tag": 22,
+    "content_type": 7,
+    "object_id": 10
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 30,
+  "fields": {
+    "tag": 23,
+    "content_type": 7,
+    "object_id": 10
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 31,
+  "fields": {
+    "tag": 24,
+    "content_type": 7,
+    "object_id": 10
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 32,
+  "fields": {
+    "tag": 8,
+    "content_type": 7,
+    "object_id": 11
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 33,
+  "fields": {
+    "tag": 9,
+    "content_type": 7,
+    "object_id": 11
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 34,
+  "fields": {
+    "tag": 14,
+    "content_type": 7,
+    "object_id": 11
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 35,
+  "fields": {
+    "tag": 25,
+    "content_type": 7,
+    "object_id": 11
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 36,
+  "fields": {
+    "tag": 26,
+    "content_type": 7,
+    "object_id": 11
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 37,
+  "fields": {
+    "tag": 27,
+    "content_type": 7,
+    "object_id": 7
   }
 },
 {
